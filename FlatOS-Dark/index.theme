@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=FlatOS-Dark
+Comment=Дизайн Material Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Type=X-GNOME-Metatheme
+GtkTheme=FlatOS-Dark
+MetacityTheme=FlatOS-Dark
+IconTheme=Flat
+CursorTheme=Flat
+CursorSize=24
+ButtonLayout=:close

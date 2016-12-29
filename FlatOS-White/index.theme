@@ -1,0 +1,14 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=FlatOS-White
+Comment=Стиль Material Design
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Type=X-GNOME-Metatheme
+GtkTheme=FlatOS-White
+MetacityTheme=FlatOS-White
+IconTheme=Flat
+CursorTheme=Flat
+CursorSize=24
+ButtonLayout=:close

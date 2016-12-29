@@ -1,0 +1,9 @@
+[Xfdashboard Theme]
+Name=xfdashboard-FlatOS-All
+Comment=FlatOS theme for xfdashboard
+Style=xfdashboard-FlatOS-All.css
+Layout=xfdashboard.xml;xfdashboard-secondary.xml
+Effects=effects.xml
+Author=Kernitskiy Yaroslav
+Version=2.0
+Screenshot=screenshot-xfdashboard-FlatOS-All.png
